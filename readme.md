@@ -1,4 +1,4 @@
-# JavaReact SSR Framework (Sparkle)
+# JavaReact SSR Framework (Sparkle ✨ 💖 )
 
 > A Next.js-inspired full-stack framework leveraging Java Spring Boot backend with React frontend, featuring file-based routing, seamless Java data injection into React components, and server-side rendering powered by GraalVM.
 
